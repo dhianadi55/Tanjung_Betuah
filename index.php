@@ -18,7 +18,7 @@
     <script src="https://unpkg.com/feather-icons"></script>
 
     <!--Custom CSS-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
