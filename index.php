@@ -1,4 +1,5 @@
 <!--http://tjbetuah.desa.id-->
+<!--http://tj-betuah.great-site.net/-->
 
 <!DOCTYPE html>
 <html lang="id">
@@ -23,12 +24,12 @@
         <a href="#" class="navbar-logo">Pekon <span>Tanjung Betuah</span></a>
     
         <div class="navbar-nav">
-            <a href="page1.html">Beranda</a>
-            <a href="page2.html">Tentang Pekon</a>
-            <a href="page3.html">Pariwisata</a>
-            <a href="page4.html">Galeri</a>
-            <a href="page5.html">Penerima Manfaat</a>
-            <a href="page6.html">Kontak</a>
+            <a href="index.php">Beranda</a>
+            <a href="page2.php">Tentang Pekon</a>
+            <a href="page3.php">Pariwisata</a>
+            <a href="page4.php">Galeri</a>
+            <a href="page5.php">Penerima Manfaat</a>
+            <a href="page6.php">Kontak</a>
         </div>
 
         <div class="navbar-extra">
